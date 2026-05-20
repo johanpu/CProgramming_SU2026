@@ -1,0 +1,10 @@
+1. mkdir <directory_name/path> - (make directory)
+2. cd <directory_name/path>  - (change directory)
+2.1. cd .. - moves to the parent directory.
+3. ls - (list) - shows content of current directory.
+4. code <file_name> - creates a file and opens it in the text editor.
+5. pwd (print working directory) - prints current working directory path.
+6. clear - clears the terminal.
+
+gcc <file_name.c (source_code)> - compiles the c program. also creates a.out executable file.
+./a.out - run the executable file.
